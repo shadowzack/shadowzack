@@ -2,9 +2,9 @@
 
 ### I'm a Software Engineer!!
 
-- 🔭 I'm currently working on an ERP system for managing construction companies
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I'm currently working on a master's degree thesis, in the field of computer vision, image classification and object detection.
+- 🌱 I’m currently learning nextjs13.
+- 👯 I’m looking to collaborate with other content creators.
 
 
 ### Connect with me:
