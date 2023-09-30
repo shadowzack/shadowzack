@@ -33,7 +33,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://github.com/shadowzack/shadowzack/assets/33025641/513008de-461a-4825-8269-8617f8c9f9ac" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/shadowzack/shadowzack/assets/33025641/140411f7-b540-4f95-ac78-9856288a4a40" />
 
-![image](https://github.com/shadowzack/shadowzack/assets/33025641/140411f7-b540-4f95-ac78-9856288a4a40)
 
 <br />
 
