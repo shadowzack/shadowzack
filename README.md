@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on a master's degree thesis, in the field of computer vision, image classification and object detection.
 - 🌱 I’m currently learning nextjs13.
-- 👯 I’m looking to collaborate with other content creators.
+- 👯 I’m looking to collaborate with other Developers and Content Creators.
 
 
 ### Connect with me:
