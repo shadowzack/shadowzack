@@ -10,7 +10,6 @@
 ### Connect with me:
 
 [<img align="left" alt="mahmodhasan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mahmod hasan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="mahmod hasan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mahmod hasan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -39,6 +38,5 @@
 
 
 [website]: http://mahmodhasan.com
-[linkedin]: https://www.linkedin.com/in/mahmod-hasn/
-[twitter]: https://twitter.com/MAHMUOD_HASAN
-[youtube]: https://www.youtube.com/channel/UC9aA8FrfwpCzAFf79B3ZBJQ
+[linkedin]: https://www.linkedin.com/in/mahmod-hasan/
+[twitter]: https://twitter.com/MahmodHasanTurk
